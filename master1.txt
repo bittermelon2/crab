@@ -2,3 +2,4 @@ this is mater1, first message
 2222222
 3333333
 4444444 from newBranch
+hot fix the 1st sentence
